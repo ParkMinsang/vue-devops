@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your ParkMinsang App" />
+  <HelloWorld msg="Unit Test Success" />
 </template>
 
 <script>
